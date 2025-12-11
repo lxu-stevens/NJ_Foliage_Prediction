@@ -5,6 +5,7 @@ Predicting Peak Autumn Foliage Weeks Using Weather Data and a PyTorch LSTM Model
 
 ## Student names and emails
 Heyuan Zhuang hzhuang2@stevens.edu
+
 Lei Xu lxu44@stevens.edu
 
 ## Problem Description
