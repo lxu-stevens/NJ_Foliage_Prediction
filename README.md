@@ -88,15 +88,15 @@ The code is organized as follows:
   - `test_model_lstm.py` tests that the LSTM model can train on synthetic data and
     produce valid peak probabilities.
 
-## Team Contribution
+## Team Contributions
 Heyuan Zhuang:
--Engineered and extracted weekly climate features used in downstream analysis and prediction
--Defined feature sets and prediction labels for peak foliage modeling.
--Conducted feature selection and transformation for machine learning models.
--Implemented and trained predictive models for foliage peak timing.
--Evaluated model performance and contributed to model refinement and tuning.
--Developed unit tests using pytest to ensure correctness and robustness of core functionalities.
--Maintained code organization, modularity, and reproducibility of the project.
+- Engineered and extracted weekly climate features used in downstream analysis and prediction
+- Defined feature sets and prediction labels for peak foliage modeling.
+- Conducted feature selection and transformation for machine learning models.
+- Implemented and trained predictive models for foliage peak timing.
+- Evaluated model performance and contributed to model refinement and tuning.
+- Developed unit tests using pytest to ensure correctness and robustness of core functionalities.
+- Maintained code organization, modularity, and reproducibility of the project.
 
 Lei Xu:
 -Implemented the data pipeline for downloading raw climate data from external sources.
