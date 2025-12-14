@@ -90,6 +90,20 @@ The code is organized as follows:
 
 ## Team Contribution
 Heyuan Zhuang:
+-Engineered and extracted weekly climate features used in downstream analysis and prediction
+-Defined feature sets and prediction labels for peak foliage modeling.
+-Conducted feature selection and transformation for machine learning models.
+-Implemented and trained predictive models for foliage peak timing.
+-Evaluated model performance and contributed to model refinement and tuning.
+-Developed unit tests using pytest to ensure correctness and robustness of core functionalities.
+-Maintained code organization, modularity, and reproducibility of the project.
 
+Lei Xu:
+-Implemented the data pipeline for downloading raw climate data from external sources.
+-Performed data cleaning and validation, including handling missing values and outliers.
+-Organized and standardized raw datasets into a consistent format.
+-Aggregated daily climate data into weekly-level datasets suitable for modeling.
+-Designed and implemented the overall project structure and main execution workflow (main.py).
+-Integrated different modules (data loading, feature engineering, and modeling) into a coherent pipeline.
 
     
