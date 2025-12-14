@@ -88,7 +88,7 @@ The code is organized as follows:
   - `test_model_lstm.py` tests that the LSTM model can train on synthetic data and
     produce valid peak probabilities.
 
-## Team Contributions
+## Teammate Contributions
 Heyuan Zhuang:
 - Engineered and extracted weekly climate features used in downstream analysis and prediction
 - Defined feature sets and prediction labels for peak foliage modeling.
