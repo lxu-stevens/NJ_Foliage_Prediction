@@ -99,11 +99,11 @@ Heyuan Zhuang:
 - Maintained code organization, modularity, and reproducibility of the project.
 
 Lei Xu:
--Implemented the data pipeline for downloading raw climate data from external sources.
--Performed data cleaning and validation, including handling missing values and outliers.
--Organized and standardized raw datasets into a consistent format.
--Aggregated daily climate data into weekly-level datasets suitable for modeling.
--Designed and implemented the overall project structure and main execution workflow (main.py).
--Integrated different modules (data loading, feature engineering, and modeling) into a coherent pipeline.
+- Implemented the data pipeline for downloading raw climate data from external sources.
+- Performed data cleaning and validation, including handling missing values and outliers.
+- Organized and standardized raw datasets into a consistent format.
+- Aggregated daily climate data into weekly-level datasets suitable for modeling.
+- Designed and implemented the overall project structure and main execution workflow (main.py).
+- Integrated different modules (data loading, feature engineering, and modeling) into a coherent pipeline.
 
     
