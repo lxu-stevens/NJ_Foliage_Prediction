@@ -87,3 +87,9 @@ The code is organized as follows:
   - `test_features.py` tests weekly feature generation.
   - `test_model_lstm.py` tests that the LSTM model can train on synthetic data and
     produce valid peak probabilities.
+
+## Team Contribution
+Heyuan Zhuang:
+
+
+    
